@@ -1,0 +1,41 @@
+track canonical_g4
+bigDataUrl g4.merged.uniq.Hg19.v2.bed.bb
+shortLabel canonical_G4s
+longLabel canonical_g4
+type bigBed 6
+colorByStrand 255,0,0 0,0,255
+
+track G4bs
+bigDataUrl g4bs.merged.uniq.Hg19.v2.bed.bb
+shortLabel G4bs
+longLabel G4bs
+type bigBed 6
+colorByStrand 255,0,0 0,0,255
+
+track G4_seq
+bigDataUrl G4seq_2015.bed.bb
+shortLabel G4_seq
+longLabel G4_seq
+type bigBed 6
+colorByStrand 255,0,0 0,0,255
+
+track G4_seq_merged
+bigDataUrl G4seq_2015.merged.bed.bb
+shortLabel G4_seq_merged
+longLabel G4_seq_merged
+type bigBed 6
+colorByStrand 255,0,0 0,0,255
+
+track RLFS
+bigDataUrl RLFS.Hg19.bed.bb
+shortLabel RLFS
+longLabel RLFS
+type bigBed 6
+colorByStrand 255,0,0 0,0,255
+
+track RLFS_merged
+bigDataUrl RLFS.merged.Hg19.bed.bb
+shortLabel RLFS_merged
+longLabel RLFS_merged
+type bigBed 6
+colorByStrand 255,0,0 0,0,255

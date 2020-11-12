@@ -1,0 +1,5 @@
+hub G4
+shortLabel G4 sequencing data
+longLabel NGS data targeting G4 quadruplex formation
+genomesFile genomes.txt
+email pappc@upstate.edu
